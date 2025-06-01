@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/calibrationFragment"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="Kalibrasyon" />
+    <item android:id="@+id/liveGraphFragment"
+        android:icon="@android:drawable/ic_menu_gallery"
+        android:title="Grafik" />
+    <item android:id="@+id/mapFragment"
+        android:icon="@android:drawable/ic_menu_mapmode"
+        android:title="Harita" />
+    <item android:id="@+id/reportFragment"
+        android:icon="@android:drawable/ic_menu_save"
+        android:title="Rapor" />
+    <item android:id="@+id/mLFragment"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="Öğrenme" />
+</menu>
